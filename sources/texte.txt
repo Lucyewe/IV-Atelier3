@@ -1,0 +1,58 @@
+menu***********************
+Accueil
+Jeunesse
+Oeuvres
+
+****************************
+
+page Accueil****************
+
+Titre 1******
+Gustav Klimt
+
+Titre 2******
+Biographie
+
+Texte******
+Gustav Klimt, né le 14 juillet 1862 à Baumgarten près de Vienne, mort le 6 février 1918 à Vienne, est un peintre symboliste autrichien, et l'un des membres les plus en vue du mouvement Art nouveau et de la Sécession de Vienne. Peintre de compositions à personnages, sujets allégoriques, figures, nus, portraits, paysages, dessinateur, décorateur, peintre de cartons de tapisseries, cartons de mosaïques, céramiste, lithographe.
+
+(image: entete_accueil.jpg) 
+
+
+page Jeunesse****************
+
+Titre 1******
+Gustav Klimt
+
+Titre 2******
+Jeunesse
+
+
+Titre 3******
+Les débuts
+
+Texte******
+En 1880, Gustav Klimt adhère au Künstlerhaus (la Compagnie des artistes), intermédiaire influent entre les artistes et leur public, qui se chargeait de les aider. L'événement le plus important dans ces années est l'achèvement de la décoration des pendentifs du grand escalier du Kunsthistorisches Museum, qu'il mène à bien malgré le décès du maître d'œuvre de ce travail conduit par le maître Hans Mackart, lequel travail consolide encore sa réputation. Cette même année, le trio enchaîne les commandes : quatre allégories pour le plafond du Palais Sturany (de) à Vienne, plafond de l'établissement thermal de Karlsbad.
+
+Titre 3******
+Premiers succès
+
+Texte******
+En 1883, il crée un atelier et travaille avec son frère Ernst Klimt, qui est orfèvre ciseleur, et Franz Matsch (en). Il réalise en particulier de nombreuses fresques, allégories et emblèmes dans un style néo-classique académique ; la précision de ses portraits est renommée. Il se voit confier la décoration de murs et plafonds de villas mais aussi de théâtres et édifices publics. En 1885 il décore la Villa Hermès dans le Lainzer Tiergarten d'après les dessins de Hans Makart, le théâtre de Carlsbad en 1886, les plafonds du théâtre de Fiume en 1893. Entre 1886 et 1888 il peint l'escalier du Burgtheater à Vienne et le style de Klimt commence à se différencier de celui de son frère et Matsch, et à s'éloigner de l'académisme. Désormais chacun travaille pour son compte.
+
+(image: entete_Bio.jpg) 
+
+
+
+page oeuvres****************
+Titre 1******
+Gustav Klimt
+
+Titre 2******
+Oeuvres
+
+Texte******
+Son œuvre comprend 230 tableaux, dont 54 tableaux représentant des paysages. Ses principaux travaux incluent les peintures, les fresques, les croquis et autres objets d'art, dont plusieurs sont exposés à la galerie Vienna Secession. La profusion des détails, la richesse des décors et de la coloration en sont caractéristiques, ainsi que la précision des portraits. Il utilise souvent les formes phalliques dans ces œuvres notamment dans Judith 2 (1909), dans Le Baiser (1907-1908) mais surtout dans Danaë (1907). Un des thèmes récurrents du travail de Klimt est la femme dominatrice personnifiée par la femme fatale.gner de l'académisme. Désormais chacun travaille pour son compte.
+(image: entete_oeuvres.jpg) 
+
+(images: grille avec toute les images du dossier oeuvres) 
